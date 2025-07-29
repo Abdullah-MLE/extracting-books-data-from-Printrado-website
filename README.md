@@ -1,5 +1,3 @@
-````markdown
-
 # 📚 Extracting Books Data from Printrado Website
 
 
@@ -70,10 +68,6 @@ The script performs the following tasks:
 
    pip install requests beautifulsoup4 pandas
 
-````
-
-
-
 3. Run the Jupyter Notebook:
 
 
@@ -81,11 +75,6 @@ The script performs the following tasks:
    * You can run the `.ipynb` file in Jupyter Lab, VS Code, or Google Colab.
 
 4. After execution, the script will generate a CSV file containing the extracted book data.
-
-
-
----
-
 
 
 ## 📄 Output
